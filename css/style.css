@@ -1,0 +1,24 @@
+.gallery-item {
+    margin-top: 144px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+
+.gallery-image {
+    position: relative;
+    display: block;
+    background-color: #FFB8CA;
+    border-radius: 24px;
+    width: 980px;
+
+    padding-top: 161px;
+    padding-bottom: 41px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+    text-align: center;
+}
